@@ -20,6 +20,15 @@ The **Value** we would be adding through our project is increased efficiency and
 # Data
 The data we will be using for our project is the  [Home Credit Default Risk Data](https://www.kaggle.com/c/home-credit-default-risk/overview). It was provided by the Home Credit Group as a part of the Kaggle Competition.
 
+# EDA 
+We explored the different attributes and processed the data for final model training. Please explore the EDA Section in the Final Report for more details. 
+
+# Models 
+We explore different classification models like XGBoost, LightGBM, Random Forest, Naive Bayes, Single Layer Perecptron, Logistic Regression, Decision Trees. Please refer Model training and Hyperparameter Tuning and Model Selection and Evaluation sections for more details. 
+
+![precision-recall-curve-cdpr](precision-recall-curve-cdpr.png)
+
+
 
 
 

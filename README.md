@@ -26,7 +26,7 @@ We explored the different attributes and processed the data for final model trai
 # Models 
 We explore different classification models like XGBoost, LightGBM, Random Forest, Naive Bayes, Single Layer Perecptron, Logistic Regression, Decision Trees. Please refer Model training and Hyperparameter Tuning and Model Selection and Evaluation sections for more details. 
 
-![precision-recall-curve-cdpr](precision-recall-curve-cdpr.png)
+![precision-recall-curve-cdrp](precision-recall-curve-cdrp.png)
 
 
 

@@ -18,7 +18,7 @@ Our model will learn from the **Experience** of loan applicants' information at 
 The **Value** we would be adding through our project is increased efficiency and accuracy through which financial institutions can evaluate a loan application and examine the risk of whether a loan applicant is likely to default or not. This will save financial institutions a significant amount of money that they might lose otherwise while lending a loan to someone who might face difficulties in repayment
 
 # Data
-The data we will be using for our project is the [https://www.kaggle.com/c/home-credit-default-risk/overview] (Home Credit Default Risk Data). It was provided by the Home Credit Group as a part of the Kaggle Competition.
+The data we will be using for our project is the  [Home Credit Default Risk Data](https://www.kaggle.com/c/home-credit-default-risk/overview). It was provided by the Home Credit Group as a part of the Kaggle Competition.
 
 
 

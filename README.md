@@ -28,6 +28,19 @@ We explore different classification models like XGBoost, LightGBM, Random Forest
 
 ![precision-recall-curve-cdrp](precision-recall-curve-cdrp.png)
 
+From the above precision recall curve, we can observe that our top three models are Decision Trees, Randon Forest and Gradient Boosting Machine. GBM has the highest recall rate of 0.675 while still preserving a high precision rate. Thus we decide to choose Gradient Boosting Machine as our final model.
+
+# Model Interpretation Using SHAP and LIME
+
+We used SHAP and LIME for Model Interpretability 
+
+![shap](shapsummaryplot.png)
+
+![lime](lime_cdrp.png)
+
+
+
+
 
 
 

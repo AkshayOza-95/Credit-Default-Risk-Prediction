@@ -36,7 +36,7 @@ We used SHAP and LIME for Model Interpretability
 
 ![shap](shapsummaryplot.png)
 
-![lime](lime_cdrp.png)
+![lime](lime_cdrp.PNG)
 
 
 
